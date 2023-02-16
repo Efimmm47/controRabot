@@ -1,0 +1,15 @@
+C:\Users\аао\Desktop\Новая папка\contorrabot\bin\Debug\net6.0\contorrabot.exe
+C:\Users\аао\Desktop\Новая папка\contorrabot\bin\Debug\net6.0\contorrabot.deps.json
+C:\Users\аао\Desktop\Новая папка\contorrabot\bin\Debug\net6.0\contorrabot.runtimeconfig.json
+C:\Users\аао\Desktop\Новая папка\contorrabot\bin\Debug\net6.0\contorrabot.dll
+C:\Users\аао\Desktop\Новая папка\contorrabot\bin\Debug\net6.0\contorrabot.pdb
+C:\Users\аао\Desktop\Новая папка\contorrabot\obj\Debug\net6.0\contorrabot.csproj.AssemblyReference.cache
+C:\Users\аао\Desktop\Новая папка\contorrabot\obj\Debug\net6.0\contorrabot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\аао\Desktop\Новая папка\contorrabot\obj\Debug\net6.0\contorrabot.AssemblyInfoInputs.cache
+C:\Users\аао\Desktop\Новая папка\contorrabot\obj\Debug\net6.0\contorrabot.AssemblyInfo.cs
+C:\Users\аао\Desktop\Новая папка\contorrabot\obj\Debug\net6.0\contorrabot.csproj.CoreCompileInputs.cache
+C:\Users\аао\Desktop\Новая папка\contorrabot\obj\Debug\net6.0\contorrabot.dll
+C:\Users\аао\Desktop\Новая папка\contorrabot\obj\Debug\net6.0\refint\contorrabot.dll
+C:\Users\аао\Desktop\Новая папка\contorrabot\obj\Debug\net6.0\contorrabot.pdb
+C:\Users\аао\Desktop\Новая папка\contorrabot\obj\Debug\net6.0\contorrabot.genruntimeconfig.cache
+C:\Users\аао\Desktop\Новая папка\contorrabot\obj\Debug\net6.0\ref\contorrabot.dll
